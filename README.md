@@ -18,7 +18,8 @@ This world map highlights the geographic distribution of nine major aquifer syst
 This bar chart compares depletion rates of those aquifers in two forms: blue bars indicate the depth lost per year (mm/year), while red bars show the total volume depleted per year (km³/year). It reveals that Northwestern India and the Ogallala Aquifer experience the most severe groundwater loss both in depth and volume.
 
 ![42788653-dce9-466b-8659-b1ba5a2e9508](https://github.com/user-attachments/assets/2bf6aa6b-fd86-414e-86c5-eea01f3e519d)
-```![plot 1](https://github.com/user-attachments/assets/a21dbb7b-972a-4fa1-8f25-fb6da57a1359)
+![plot 1](https://github.com/user-attachments/assets/30198833-713b-4e11-98a2-306905554185)
+
 
 
 #### Running the Code
