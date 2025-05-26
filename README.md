@@ -28,4 +28,5 @@ To run the code, ensure you have the required libraries installed. You can insta
 conda create -n gwpz python=3.12
 conda activate gwpz
 conda install -c conda-forge -y geopandas matplotlib seaborn
+python groundwater_plot.py
 
