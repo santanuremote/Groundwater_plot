@@ -97,7 +97,7 @@ print(f"Map saved successfully at: {save_path}")
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Sample data extracted visually from the image
+# Aquifer names and time period
 regions = [
     "Northwest Sahara\n(2003–2013)", "California Central Valley\n(2003–2010)",
     "High Plains (Ogallala)\n(2003–2013)", "Guarani\n(2003–2009)",
@@ -106,37 +106,38 @@ regions = [
     "Canning Basin\n(2003–2013)"
 ]
 
-# Approximate values taken from visual inspection of bars
-mm_per_year = [4, 21, 28, 1, 20, 12, 39, 21, 5]
-km3_per_year = [7, 8, 29, 2, 30, 34, 39, 18, 4]
+# Accurate depletion rates from Table 1
+mm_per_year = [2.8, 20.4, 27.6, 0.6, 17.3, 9.1, 40.0, 22.0, 9.4]
+km3_per_year = [2.7, 3.1, 12.5, 1.0, 13.0, 15.5, 17.7, 8.3, 3.6]
 
 x = np.arange(len(regions))
 width = 0.35
 
-fig, ax1 = plt.subplots(figsize=(14, 6), dpi=900)
+# Create high-resolution figure
+fig, ax1 = plt.subplots(figsize=(14, 6), dpi=600)
 
-# Left y-axis (mm/year)
+# Left Y-axis: mm/year
 bar1 = ax1.bar(x - width/2, mm_per_year, width, label='mm/year', color='royalblue')
 ax1.set_ylabel('Depletion Rate (mm/year)', fontsize=14, fontweight='bold')
 ax1.tick_params(axis='y', labelsize=12)
 ax1.set_xticks(x)
 ax1.set_xticklabels(regions, rotation=45, ha='right', fontsize=12, fontweight='bold')
 
-# Right y-axis (km³/year)
+# Right Y-axis: km³/year
 ax2 = ax1.twinx()
 bar2 = ax2.bar(x + width/2, km3_per_year, width, label='km³/year', color='indianred')
 ax2.set_ylabel('Depletion Rate (km³/year)', fontsize=14, fontweight='bold', color='brown')
 ax2.tick_params(axis='y', labelsize=12, colors='brown')
 
-# Legends
-legend1 = ax1.legend(loc='upper left', fontsize=12)
-legend2 = ax2.legend(loc='upper right', fontsize=12)
+# Add legends
+ax1.legend(loc='upper left', fontsize=12)
+ax2.legend(loc='upper right', fontsize=12)
 
 plt.tight_layout()
 plt.grid(False)
 
-# Save the plot
-output_path = "/mnt/data/aquifer_depletion_dual_axis.png"
-plt.savefig(output_path, dpi=900, bbox_inches='tight')
+# Save 900 DPI image
+plt.savefig("aquifer_depletion_dual_axis_corrected.png", dpi=900, bbox_inches='tight')
 plt.show()
+
 
