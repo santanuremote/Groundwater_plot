@@ -6,6 +6,9 @@ This paper reviews Indian GWPZ research, highlighting a methodological shift fro
 Despite these advancements, regional data heterogeneity, aquifer complexity, and climatic variability continue to pose significant challenges. 
 The paper advocates for future strategies like high-resolution datasets and 3D subsurface modeling to improve sustainable groundwater management in India.
 
+![Graphical Abstract](https://github.com/user-attachments/assets/e9f7b3aa-8936-4cb4-9133-d6b23a24e2ec)
+
+
 ### Citation
 
 Banerjee, S., Majumdar, S., Saha, J., Kukal, M. S., Thakur, P. K., Rathore, V. S., Kaushik, P. R., Talukdar, G., Misra, D., & Ndehedehe, C. (2025). Groundwater Potential Zone Mapping for Sustainable Water Management in India: A Systematic Review of Methods, Validation Techniques, and Future Directions. _Under review in [Cambridge Prisms Drylands](https://www.cambridge.org/core/journals/cambridge-prisms-drylands/information/about-this-journal)_.  
