@@ -6,7 +6,7 @@ This paper reviews Indian GWPZ research, highlighting a methodological shift fro
 Despite these advancements, regional data heterogeneity, aquifer complexity, and climatic variability continue to pose significant challenges. 
 The paper advocates for future strategies like high-resolution datasets and 3D subsurface modeling to improve sustainable groundwater management in India.
 
-<img src=https://github.com/user-attachments/assets/e9f7b3aa-8936-4cb4-9133-d6b23a24e2ec height="400"/>
+<center> <img src=https://github.com/user-attachments/assets/e9f7b3aa-8936-4cb4-9133-d6b23a24e2ec height="600"/> </center>
 
 
 ### Citation
