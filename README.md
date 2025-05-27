@@ -8,7 +8,7 @@ The paper advocates for future strategies like high-resolution datasets and 3D s
 
 ### Citation
 
-Banerjee, S., Majumdar, S., Saha, J., Kukal, M. S., Thakur, P. K., Rathore, V. S., Kaushik, P. R., Talukdar, G., Misra, D., & Ndehedehe, C. (2025). Groundwater Potential Zone Mapping for Sustainable Water Management in India: A Systematic Review of Methods, Validation Techniques, and Future Directions. _Under review in Cambridge Prisms Drylands_.  
+Banerjee, S., Majumdar, S., Saha, J., Kukal, M. S., Thakur, P. K., Rathore, V. S., Kaushik, P. R., Talukdar, G., Misra, D., & Ndehedehe, C. (2025). Groundwater Potential Zone Mapping for Sustainable Water Management in India: A Systematic Review of Methods, Validation Techniques, and Future Directions. _Under review in [Cambridge Prisms Drylands](https://www.cambridge.org/core/journals/cambridge-prisms-drylands/information/about-this-journal)_.  
 
 
 #### Global Aquifer Location Map
