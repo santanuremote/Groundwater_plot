@@ -11,7 +11,7 @@ The paper advocates for future strategies like high-resolution datasets and 3D s
 
 ### Citation
 
-Banerjee, S., Majumdar, S., Saha, J., Kukal, M. S., Thakur, P. K., Rathore, V. S., Kaushik, P. R., Talukdar, G., Misra, D., & Ndehedehe, C. (2025). Groundwater Potential Mapping in India: A Review of Approaches and Pathways for Sustainable Management. _Cambridge Prisms: Drylands_, 1–47. https://doi.org/10.1017/dry.2025.10008
+Banerjee, S., Majumdar, S., Saha, J., Kukal, M. S., Thakur, P. K., Rathore, V. S., Kaushik, P. R., Talukdar, G., Misra, D., & Ndehedehe, C. (2025). Groundwater potential mapping in India: A review of approaches and pathways for sustainable management. Cambridge Prisms: Drylands, 2, e12, 1–17. https://doi.org/10.1017/dry.2025.10008
 
 
 #### Global Aquifer Location Map
